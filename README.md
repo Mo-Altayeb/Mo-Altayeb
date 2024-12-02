@@ -24,6 +24,10 @@ I'm currently focused on:
 
 ## 📫 How to Reach Me  
 
-- feel free to [Email](mohamedaltayeb2001@gmail.com) me
+- feel free to contact me through  the E-mail in my profile
 
-- Follow me on [X](https://x.com/mo_altayeb01?t=dd6yk2aXkfI1FSVrkXJtiw&s=09)
+- Follow me on
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow mohamed_altayeb01 on Instagram" title="follow mohamed_altayeb01
+ on Instagram"/>](https://instagram.com/mohamed_altayeb01)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/600px-X_logo.jpg" height="40em" align="center" alt="Follow mo_altayeb01 on Twitter" title="Follow mo_altayeb01 on Twitter"/>](https://x.com/mo_altayeb01)
+<!-- I am breaking this rule because I want to use raw HTML in my markdown>
